@@ -5,3 +5,4 @@
 
 /.quarto/
 .update.sh
+**/*.quarto_ipynb
